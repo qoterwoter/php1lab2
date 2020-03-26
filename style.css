@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header,
+footer {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    min-height: 10vh;
+}
+
+ul {
+    padding: 20px;
+}
+
+main {
+    background-color: rgb(173, 173, 173);
+}
+
+main {
+    min-height: 65vh;
+}
